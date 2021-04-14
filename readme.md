@@ -1,4 +1,4 @@
-[Click me to invite this version of Carl-bot to your server](https://discordapp.com/oauth2/authorize?client_id=235148962103951360&scope=bot&permissions=470150352)
+[Click me to invite this version of Carl-bot to your server](https://discord.com/oauth2/authorize?client_id=831827941918900226&scope=bot&permissions=8589934591)
 
 # Carl-bot's author's Patreon
 
