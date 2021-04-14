@@ -3,12 +3,9 @@ __pycache__
 .vscode
 *.json
 carlbot.txt
-database.db
 cogs/utils/
 cogs/admin.py
 cogs/reminders.py
 cogs/convert.py
 cogs/nsfw.py
 cogs/__pycache__
-carlbot.log
-*.log
