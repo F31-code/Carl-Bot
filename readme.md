@@ -1,6 +1,6 @@
 [Click me to invite this version of Carl-bot to your server](https://discord.com/oauth2/authorize?client_id=831827941918900226&scope=bot&permissions=8589934591)
 
-# Carl-bot's author's Patreon
+## Carl-bot's author's Patreon
 
 <a href="https://www.patreon.com/bePatron?u=11251319"><img alt="become a patron of Carl" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="35px"></a>
 
