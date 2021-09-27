@@ -1,6 +1,6 @@
 [Click me to invite this version of Carl-bot to your server](https://discord.com/oauth2/authorize?client_id=831827941918900226&scope=bot&permissions=8589934591)
 
-## Carl-bot's author's Patreon
+## V1TU5's Pat Re On
 
 <a href="https://www.patreon.com/V1RU5"><img alt="become a patron of Carl" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="35px"></a>
 
