@@ -2,7 +2,7 @@
 
 ## Carl-bot's author's Patreon
 
-<a href="https://www.patreon.com/bePatron?u=11251319"><img alt="become a patron of Carl" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="35px"></a>
+<a href="https://www.patreon.com/V1RU5"><img alt="become a patron of Carl" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="35px"></a>
 
 # Dashboard
 
